@@ -20,7 +20,7 @@
 
 			<div class="clear"></div>
 
-			<div class="column">
+			<div class="column first">
 				<img src="<?php echo of_get_option( 'column_1_icon', get_template_directory_uri() . '/images/icon-profile.png' ) ?>" alt="<?php echo of_get_option( 'column_1_title' ) ?>" />
 				<h2><?php echo of_get_option( 'column_1_title' ) ?></h2>
 				<p><?php echo of_get_option( 'column_1_text' ) ?></p>
